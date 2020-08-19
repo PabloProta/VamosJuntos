@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "587624451928",
+    "firebase_url": "https://tjuntos-4bc62.firebaseio.com",
+    "project_id": "tjuntos-4bc62",
+    "storage_bucket": "tjuntos-4bc62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587624451928:android:5ad918fe57c25914bbdf2d",
+        "android_client_info": {
+          "package_name": "com.vamjun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587624451928-9ajb30m93hgalp8jc8dp8n3j02maan57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vamjun",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "587624451928-d809m26tdd003v9b9dmjk1ieqv4kvln8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfhrrx8BeNabaATcRT6N009WP9cQwWFM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587624451928-d809m26tdd003v9b9dmjk1ieqv4kvln8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

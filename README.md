@@ -3,4 +3,4 @@ Esse repositório tem como objetivo auxiliar quem está tendo dificuldades em in
 
 
 ## Tela Inicial 
-<img src="https://github.com/PabloProta/VamosJuntos/blob/master/Login.png" width="350" height="500" />
+<img src="https://github.com/PabloProta/VamosJuntos/blob/master/Login.png" width="320" height="500" />

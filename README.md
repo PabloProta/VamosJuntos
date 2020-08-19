@@ -20,4 +20,6 @@ Para isso eu utilizei duas api ( por enquanto ) do firebase uma para permitir o 
 <img src="https://github.com/PabloProta/VamosJuntos/blob/master/Inscrição.png" width="280" height="500" />
 
 ### Tela de Boas Vindas
+Aqui eu loguei com minha conta que eu utlizo no dia dia.
+
 <img src="https://github.com/PabloProta/VamosJuntos/blob/master/Logado.png" width="280" height="500" />

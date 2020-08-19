@@ -11,6 +11,13 @@ Para fazer a navegação entre tela foi utlizado uma  API do React_native (Stack
 Para isso eu utilizei duas api ( por enquanto ) do firebase uma para permitir o login via conta google e outra para fazer o login e cadastro tradicionalmente, não vou me aprofundar nisso pois só queria mostrar o funcionamento, se conseguirem baixar a pasta ou o apk deste aplicativo vão poder utlizar normalmente sem precisar de uma conta no firebase,já que neste projeto estou utilizando minha conta,  basta conexão com internet.  Todas as informações podem ser econtradas no site do [firebase](https://firebase.google.com/docs/auth) ou [aqui](https://rnfirebase.io/auth/usage).
 
 
-## Tela Inicial 
+## TELAS
+
+### Tela Inicial
 <img src="https://github.com/PabloProta/VamosJuntos/blob/master/Login.png" width="280" height="500" />
 
+### Tela de Cadastro
+<img src="https://github.com/PabloProta/VamosJuntos/blob/master/Inscrição.png" width="280" height="500" />
+
+### Tela de Boas Vindas
+<img src="https://github.com/PabloProta/VamosJuntos/blob/master/Logado.png" width="280" height="500" />

@@ -27,7 +27,7 @@ Para isso eu utilizei duas api ( por enquanto ) do firebase uma para permitir o 
 
 #### Tela de Cadastro
 
-<img src="https://github.com/PabloProta/VamosJuntos/blob/master/Inscrição.png" width="280" height="500" />
+<img src="https://github.com/PabloProta/VamosJuntos/blob/master/cadastro.gif" width="280" height="500" />
 
 ### Tela de Boas Vindas
 

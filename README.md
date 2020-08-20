@@ -23,3 +23,7 @@ Para isso eu utilizei duas api ( por enquanto ) do firebase uma para permitir o 
 Aqui eu loguei com minha conta que eu utlizo no dia dia.
 
 <img src="https://github.com/PabloProta/VamosJuntos/blob/master/Logado.png" width="280" height="500" />
+
+## Considerações finais
+Como falado anteriormente sou um estudande e o projeto desenvolvido em questão pode servir como guia para quem não tem ideia por onde começar.
+Ressaltando que toda ajuda e feedbacks são bem vindos, o intuito também é poder melhorar o projeto, então quem desejar colaborar com o projeto sera muito bem vindo.

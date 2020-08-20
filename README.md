@@ -14,8 +14,10 @@ Para isso eu utilizei duas api ( por enquanto ) do firebase uma para permitir o 
 ## TELAS
 
 ### Tela Inicial
+
+![] (https://github.com/PabloProta/VamosJuntos/blob/master/google.gif)
 <img src="https://github.com/PabloProta/VamosJuntos/blob/master/Login.png" width="280" height="500" />
-![](https://github.com/PabloProta/VamosJuntos/blob/master/google.gif)
+
 
 ### Tela de Cadastro
 <img src="https://github.com/PabloProta/VamosJuntos/blob/master/Inscrição.png" width="280" height="500" />

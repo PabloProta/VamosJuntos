@@ -16,17 +16,21 @@ Para isso eu utilizei duas api ( por enquanto ) do firebase uma para permitir o 
 ### Telas Login
 
 <img src="https://github.com/PabloProta/VamosJuntos/blob/master/inicio.gif" width="280" height="500" />
+
 #### com google
 
 <img src="https://github.com/PabloProta/VamosJuntos/blob/master/google.gif" width="280" height="500" />
+
 #### com email 
 
 <img src="https://github.com/PabloProta/VamosJuntos/blob/master/email_senha.gif" width="280" height="500" />
+
 #### Tela de Cadastro
 
 <img src="https://github.com/PabloProta/VamosJuntos/blob/master/Inscrição.png" width="280" height="500" />
 
 ### Tela de Boas Vindas
+
 Aqui eu loguei com minha conta que eu utlizo no dia dia.
 
 <img src="https://github.com/PabloProta/VamosJuntos/blob/master/Logado.png" width="280" height="500" />

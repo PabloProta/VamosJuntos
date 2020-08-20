@@ -24,6 +24,17 @@ Aqui eu loguei com minha conta que eu utlizo no dia dia.
 
 <img src="https://github.com/PabloProta/VamosJuntos/blob/master/Logado.png" width="280" height="500" />
 
+## Versões
+Node: v12.16.3
+React-Native: 0.62.2
+NPM: 6.14.4
+yarn: 1.22.4
+
+
+
 ## Considerações finais
 Como falado anteriormente sou um estudande e o projeto desenvolvido em questão pode servir como guia para quem não tem ideia por onde começar.
-Ressaltando que toda ajuda e feedbacks são bem vindos, o intuito também é poder melhorar o projeto, então quem desejar colaborar com o projeto sera muito bem vindo.
+Todas as bibliotecas que eu baixei podem ser encontradas no package.json. , pode ser que dependendo da versão que for utilizar do react-native ou do node, pode ocorrer de não funcionar corretamente ou até não rodar,  por isso ***verifique as versões de cada um***.
+Ressaltando que toda ajuda e feedbacks são bem aceitos, o intuito também é poder melhorar o projeto, então quem desejar colaborar  sera muito bem vindo.
+
+

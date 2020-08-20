@@ -15,7 +15,7 @@ Para isso eu utilizei duas api ( por enquanto ) do firebase uma para permitir o 
 
 ### Tela Inicial
 
-![google](https://github.com/PabloProta/VamosJuntos/blob/master/google.gif)
+<img src="https://github.com/PabloProta/VamosJuntos/blob/master/google.gif" width="280" height="500" />
 <img src="https://github.com/PabloProta/VamosJuntos/blob/master/Login.png" width="280" height="500" />
 
 
